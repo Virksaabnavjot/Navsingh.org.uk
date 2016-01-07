@@ -5,7 +5,7 @@
 *Project: Navsingh Org
 *Date Started: 07 Jan 2015
 *Status: Live at https://navsingh.org.uk
-*Todays date: 07/10/2016  (1 year anniversary of Navsingh Org, along with my everyday running routine commitment,that i followed)
+*Todays date: 07 Jan 2016  (1 year anniversary of Navsingh Org, along with my everyday running routine commitment,that i followed)
 */
 
 Home page: https://navsingh.org.uk
